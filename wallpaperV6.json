@@ -2,13 +2,13 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -23,45 +23,25 @@
   [
     {
       "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "title":"Monster Truck Racing wallpaper",
+      "image":"https://play-lh.googleusercontent.com/mvZXZiSwnGWsASYQ1mdvfmwO2RWysEErVkYl0ZI-PkdQ9Yo2-GxPug1ifwZC3inpj8w=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.qanjerumbi.wallpaper.monstertruckracing"
     },
     {
       "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      "title":"	Stock Car Racing Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/Aadp6254iqCSVmJP4-_S6ZJjgcftgsBR7pOjM16Z8ufnfCXu4Tmf5iIMSBKwpbsIcBw=w720-h310-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.stock.car.racing"
     },
     {
       "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "title":"Racing Rally Fury Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/Mcm6ZAB7vDlaT3hIefPNEGeOn9BteCpuEjIpjpuKAw-ehAR06ZlQOyjUQk75_Hqy2RgZ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.qanjerumbi.dirtrally.dirtrallywallpaper"
     }
   ],
 
-  "Categories": [
-    {
-      "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Animal",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Car",
-      "image": "file:///android_asset/image/car.jpg"
-
-    }
-  ],
-
+ 
   "Data":
   [
     {
